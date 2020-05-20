@@ -1,7 +1,7 @@
 {
   "name": "browser-extension-oauth2",
-  "version": "1.0.0",
-  "description": "Library to implement OAuth2.0 in browser extension",
+  "version": "1.0.1",
+  "description": "Browser extension oauth2 library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
