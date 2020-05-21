@@ -1,6 +1,6 @@
 {
   "name": "browser-extension-oauth2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Browser extension oauth2 library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -11,8 +11,9 @@
   "author": "Shuo Wu",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/shuowu/browser-extension-oauth2"
   },
+  "homepage": "https://github.com/shuowu/browser-extension-oauth2",
   "license": "MIT",
   "peerDependencies": {
     "webextension-polyfill": "^0.6.0"
